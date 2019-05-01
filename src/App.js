@@ -4,7 +4,7 @@ import Card from "./components/Card";
 import Grid from "./components/Grid";
 import Nav from "./components/Nav";
 import sports from "./sports.json"
-import { isUpdateExpression } from '@babel/types';
+// import { isUpdateExpression } from '@babel/types';
 
 class App extends Component {
   // Setting this.state.sports to the sports json array
